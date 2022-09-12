@@ -1,7 +1,7 @@
 <h1 align="center">Olá meu nome é Guilherme Tamiosso</h1>
 <h3 align="center">Estudante de desenvolvimento WEB!</h3>
 
-- 📜 Estudando **Typescript**
+<h4>- 📜 Estudando **Typescript**</h4>
 
 - 📚 Aprimorando **React, JavaScript e Mysql**
 
