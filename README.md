@@ -3,7 +3,7 @@
 
 - 📜 Estudando **Typescript**
 
-- 📚 Aprimorando **React, JavaScript e Mysql**
+- 📚 Aprimorando **React, JavaScript e Mysql!**
 
 - 📱 Linkedin **https://www.linkedin.com/in/guirl-tamiosso/**
 
