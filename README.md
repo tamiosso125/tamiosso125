@@ -1,15 +1,15 @@
 <h1 align="center">Oi, eu so o Guilherme Tamiosso!</h1>
 <h3 align="center">Estudante de desenvolvimento WEB!</h3>
 
-- 📜 Estudando **Typescript**
-
-- 📚 Aprimorando **React, JavaScript e Mysql!**
+- 📚 Aprimorando **React, JavaScript, Typescript e Mysql!**
 
 - 📱 Linkedin **https://www.linkedin.com/in/guirl-tamiosso/**
 
 - 📫 Email para contato **guilherme.tamiosso@hotmail.com**
 
 - ⚡ Sempre focado em desenvolvimento **Profissional e Pessoal!**
+
+- 📜 Download do Currículo https://drive.google.com/u/0/uc?id=178cWULIV9erDyA4VXMxPL25ddkt2NDKA&export=download
 
 <h3 align="left">Conecte-se comigo!</h3>
 <p align="left">
