@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu so o Guilherme Tamiosso!</h1>
+<h1 align="center">Oi, eu sou Guilherme Tamiosso!</h1>
 <h3 align="center">Estudante de desenvolvimento WEB!</h3>
 
 - 📚 Aprimorando **React, JavaScript, Typescript e Mysql!**
